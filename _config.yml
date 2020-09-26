@@ -16,7 +16,7 @@ remote_theme             : "mmistakes/minimal-mistakes@4.20.2"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en-GB"
 title                    : "Luca's BiomechBlog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
